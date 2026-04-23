@@ -34,7 +34,7 @@ fraud patterns using Python, SQL Server and Power BI.
 - Features: 30 anonymized variables plus Amount and Class
 
 ## Project Structure
-CreditCard-Fraud-Detection/
+[CreditCard-Fraud-Detection/](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/CreditCard-Fraud-Detection)
 ├── [Credit_Card_Fraud_Detection.ipynb](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
 ├── creditcard_clean.csv
 ├── [dashboard.png](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/dashboard.png)
