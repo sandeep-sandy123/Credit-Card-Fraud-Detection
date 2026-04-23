@@ -36,6 +36,6 @@ fraud patterns using Python, SQL Server and Power BI.
 ## Project Structure
 [CreditCard-Fraud-Detection/](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/CreditCard-Fraud-Detection)
 ├── [Credit_Card_Fraud_Detection.ipynb](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
-├── creditcard_clean.csv
+├── [creditcard_clean.csv](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/creditcard_clean.csv)
 ├── [dashboard.png](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/dashboard.png)
-└── README.md
+└── [README.md](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/edit/main/README.md)
