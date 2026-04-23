@@ -25,7 +25,7 @@ fraud patterns using Python, SQL Server and Power BI.
 - Power BI (Advanced Dashboard)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+[![Dashboard](dashboard.png)](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/dashboard.png)
 
 ## Dataset
 - Source: Kaggle UCI Credit Card Fraud Detection
@@ -37,5 +37,5 @@ fraud patterns using Python, SQL Server and Power BI.
 CreditCard-Fraud-Detection/
 ├── Credit_Card_Fraud_Detection.ipynb
 ├── creditcard_clean.csv
-├── dashboard.png
+├── [dashboard.png](https://github.com/sandeep-sandy123/Credit-Card-Fraud-Detection/blob/main/dashboard.png)
 └── README.md
